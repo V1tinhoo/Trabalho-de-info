@@ -1,0 +1,127 @@
+@font-face {
+    font-family: One piece;
+    src: url(piece_font.ttf) format(truetype), url(piece_font.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+:root {
+    --font: One piece;
+    background-color: rgb(255, 255, 255);
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('piece.ttf') format('truetype');
+  }
+
+.MAT {
+
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px ;
+    margin-top: 20px;
+}
+h1 {
+    border: 100 px solid red;
+    font-family: love, times, serif;
+}
+ 
+img{     
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    top: 49%
+    
+}
+
+.navbar{
+    top: 0%;
+    width: 200%;
+    height: 250px;
+    background: yellow;
+}
+
+#cabecalho{
+height: 150px;
+background-color: orange;
+}
+
+#menu{
+    height:400px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.932);
+    float: left;
+
+}
+
+#principal{
+    height:400px;
+    width: 575px;
+    background-color: rgb(255, 255, 255);
+    float:left;
+}
+
+
+#video{
+    position: relative;
+    border-width:2px;
+    width: 900px;
+    height: 400px;
+    left:0px;
+    float: right;
+    background-color: rgb(255, 255, 255);
+}
+
+#embaixo{
+    height:100px;
+    width: 2000px;
+    background-color: rgb(255, 0, 0);
+    float:right;
+}
+
+
+#one_piece{
+height:1000;
+width: 2000px;
+background-color: rgba(255, 255, 255, 0.938);
+float:left;
+}
+
+#one_piece2{
+    height:350px;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.938);
+    float:right;
+}
+
+#one_piece3{
+    height: 350px;
+    width: 600px;
+    float: right;
+    background-color: rgb(255, 255, 255);
+}
+
+#one_piece4{
+    height: 700px;
+    width: 2000px;
+    float: left;
+    background-color: rgb(71, 4, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
